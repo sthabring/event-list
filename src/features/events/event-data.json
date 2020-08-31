@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "1",
+      "title": "Lorem ipsum",
+      "description": "Darf es etwas Glamour sein? In einer exklusiven Gondel schweben Sie im …",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "2",
+      "title": "Zermatt Taste Experience",
+      "description": "The unique cuisine has a high value in Zermatt. Last but not least, Zermatt…",
+      "from": "2020-04-02",
+      "to": "2020-04-01"
+    },
+    {
+      "id": "3",
+      "title": "Gondola fondue winter edition",
+      "description": "As the last sunbeams of the day light up the mountain peaks around Zermatt…",
+      "from": "2020-05-02",
+      "to": "2020-06-01"
+    },
+    {
+      "id": "4",
+      "title": "Lorem ipsum",
+      "description": "Darf es etwas Glamour sein? In einer exklusiven Gondel schweben Sie im …",
+      "from": "2020-03-02",
+      "to": "2020-08-01"
+    },
+    {
+      "id": "5",
+      "title": "Zermatt Taste Experience",
+      "description": "The unique cuisine has a high value in Zermatt. Last but not least, Zermatt…",
+      "from": "2020-08-02",
+      "to": "2020-08-01"
+    },
+    {
+      "id": "6",
+      "title": "Gondola fondue winter edition",
+      "description": "As the last sunbeams of the day light up the mountain peaks around Zermatt…",
+      "from": "2020-13-02",
+      "to": "2020-13-01"
+    },
+    {
+      "id": "7",
+      "title": "Lorem ipsum",
+      "description": "Darf es etwas Glamour sein? In einer exklusiven Gondel schweben Sie im …",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "8",
+      "title": "Zermatt Taste Experience",
+      "description": "The unique cuisine has a high value in Zermatt. Last but not least, Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "9",
+      "title": "Gondola fondue winter edition",
+      "description": "As the last sunbeams of the day light up the mountain peaks around Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "10",
+      "title": "Lorem ipsum",
+      "description": "Darf es etwas Glamour sein? In einer exklusiven Gondel schweben Sie im …",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "11",
+      "title": "Zermatt Taste Experience",
+      "description": "The unique cuisine has a high value in Zermatt. Last but not least, Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "12",
+      "title": "Gondola fondue winter edition",
+      "description": "As the last sunbeams of the day light up the mountain peaks around Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "13",
+      "title": "Lorem ipsum",
+      "description": "Darf es etwas Glamour sein? In einer exklusiven Gondel schweben Sie im …",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "14",
+      "title": "Zermatt Taste Experience",
+      "description": "The unique cuisine has a high value in Zermatt. Last but not least, Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    },
+    {
+      "id": "15",
+      "title": "Gondola fondue winter edition",
+      "description": "As the last sunbeams of the day light up the mountain peaks around Zermatt…",
+      "from": "2020-03-02",
+      "to": "2020-03-01"
+    }
+  ]
+}
